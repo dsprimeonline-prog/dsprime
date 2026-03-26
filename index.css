@@ -98,7 +98,8 @@ footer{
     }
     footer a{
         text-decoration: none;
+        color: #F2C84B;
     }
     footer a:visited{
-        color:blue
+        color: #F2C84B;
     }
