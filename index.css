@@ -80,13 +80,25 @@ main{
     text-decoration: none;
 }
 .card button{
-    background-color: rgb(247, 83, 24);
+    background-color: #F2B138;
     padding: 10px;
     border-radius: 5px;
     border: none;
     color: #f5f5f5;
     letter-spacing: 1px;
     text-transform: capitalize;
+}
+
+.more a button{
+    margin-bottom: 20px;
+    border: none;
+    background-color: #F2B138;
+    border-radius: 5px;
+    padding: 10px;
+    color: white;
+}
+.more a:visited{
+    color: #F2B138;
 }
 
 footer{
