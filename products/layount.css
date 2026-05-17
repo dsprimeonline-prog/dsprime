@@ -35,6 +35,9 @@ body{
 /* header */
 
 /* main */
+main{
+    letter-spacing: 0.5px;
+}
 .product{
     max-width: 1000px;
     margin: auto;
