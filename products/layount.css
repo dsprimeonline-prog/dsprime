@@ -61,7 +61,7 @@ main{
     margin-top: 10px;
 }
 .description ul{
-    list-style: none;
+    list-style: disc;
 }
 .cta{
     text-align: center;
